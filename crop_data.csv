@@ -1,0 +1,11 @@
+soil_type,pH,rainfall,temperature,crop
+Loamy,6.5,200,25,Wheat
+Clay,7.0,150,28,Rice
+Sandy,6.8,100,30,Maize
+Loamy,6.2,180,22,Barley
+Clay,6.9,220,27,Sugarcane
+Sandy,6.5,110,32,Millet
+Loamy,6.3,190,24,Pulses
+Clay,7.2,160,26,Jute
+Sandy,6.6,120,31,Sorghum
+Loamy,6.4,170,23,Lentils

@@ -1,0 +1,122 @@
+ERROR:root:Error: Usage: predict_crop.py <soil_type> <pH> <rainfall> <temperature>
+ERROR:root:Error: Usage: predict_crop.py <soil_type> <pH> <rainfall> <temperature>
+DEBUG:root:Predicted Crop: Barley
+DEBUG:root:Input Data: [[6.2, 180.0, 23.0, 0, 0, 1]]
+ERROR:root:Error: Usage: predict_crop.py <soil_type> <pH> <rainfall> <temperature>
+ERROR:root:Error: Usage: predict_crop.py <soil_type> <pH> <rainfall> <temperature>
+DEBUG:root:Predicted Crop: Barley
+DEBUG:root:Input Data: [[6.2, 180.0, 23.0, 0, 0, 1]]
+DEBUG:root:Predicted Crop: Barley
+DEBUG:root:Input Data: [[6.2, 180.0, 23.0, 0, 0, 1]]
+DEBUG:root:Predicted Crop: Barley
+DEBUG:root:Input Data: [[6.2, 180.0, 23.0, 0, 0, 1]]
+ERROR:root:Error: Usage: predict_crop.py <soil_type> <pH> <rainfall> <temperature>
+ERROR:root:Error: Usage: predict_crop.py <soil_type> <pH> <rainfall> <temperature>
+DEBUG:root:Predicted Crop: Barley
+DEBUG:root:Input Data: [[6.2, 180.0, 23.0, 0, 0, 1]]
+DEBUG:root:Predicted Crop: Barley
+DEBUG:root:Input Data: [[6.2, 180.0, 23.0, 0, 0, 1]]
+ERROR:root:Error: The feature names should match those that were passed during fit.
+Feature names must be in the same order as they were in fit.
+
+DEBUG:root:Predicted Crop: Barley
+DEBUG:root:Input Data: [[6.2, 180.0, 23.0, 0, 0, 1]]
+ERROR:root:Error: The feature names should match those that were passed during fit.
+Feature names must be in the same order as they were in fit.
+
+DEBUG:root:Predicted Crop: Barley
+DEBUG:root:Input Data: [6.2, 180.0, 23.0, 0, 0, 1]
+DEBUG:root:Expected Columns: ['pH' 'rainfall' 'temperature' 'soil_type_Clay' 'soil_type_Loamy'
+ 'soil_type_Sandy']
+DEBUG:root:Reordered Input Data:     pH  rainfall  temperature  soil_type_Clay  soil_type_Loamy  soil_type_Sandy
+0  6.2     180.0         23.0               0                0                1
+DEBUG:root:Predicted Crop: Barley
+DEBUG:root:Input Data: [6.2, 180.0, 23.0, 0, 0, 1]
+DEBUG:root:Expected Columns: ['pH' 'rainfall' 'temperature' 'soil_type_Clay' 'soil_type_Loamy'
+ 'soil_type_Sandy']
+DEBUG:root:Reordered Input Data:     pH  rainfall  temperature  soil_type_Clay  soil_type_Loamy  soil_type_Sandy
+0  6.2     180.0         23.0               0                0                1
+DEBUG:root:Predicted Crop: Barley
+DEBUG:root:Input Data: [6.2, 180.0, 23.0, 0, 0, 1]
+DEBUG:root:Expected Columns: ['pH' 'rainfall' 'temperature' 'soil_type_Clay' 'soil_type_Loamy'
+ 'soil_type_Sandy']
+DEBUG:root:Reordered Input Data:     pH  rainfall  temperature  soil_type_Clay  soil_type_Loamy  soil_type_Sandy
+0  6.2     180.0         23.0               0                0                1
+DEBUG:root:Predicted Crop: Maize
+DEBUG:root:Input Data: [7.2, 100.0, 31.0, 0, 0, 1]
+DEBUG:root:Expected Columns: ['pH' 'rainfall' 'temperature' 'soil_type_Clay' 'soil_type_Loamy'
+ 'soil_type_Sandy']
+DEBUG:root:Reordered Input Data:     pH  rainfall  temperature  soil_type_Clay  soil_type_Loamy  soil_type_Sandy
+0  7.2     100.0         31.0               0                0                1
+DEBUG:root:Predicted Crop: Maize
+DEBUG:root:Input Data: [7.2, 100.0, 31.0, 0, 0, 1]
+DEBUG:root:Expected Columns: ['pH' 'rainfall' 'temperature' 'soil_type_Clay' 'soil_type_Loamy'
+ 'soil_type_Sandy']
+DEBUG:root:Reordered Input Data:     pH  rainfall  temperature  soil_type_Clay  soil_type_Loamy  soil_type_Sandy
+0  7.2     100.0         31.0               0                0                1
+DEBUG:root:Predicted Crop: Maize
+DEBUG:root:Input Data: [7.2, 100.0, 31.0, 0, 0, 1]
+DEBUG:root:Expected Columns: ['pH' 'rainfall' 'temperature' 'soil_type_Clay' 'soil_type_Loamy'
+ 'soil_type_Sandy']
+DEBUG:root:Reordered Input Data:     pH  rainfall  temperature  soil_type_Clay  soil_type_Loamy  soil_type_Sandy
+0  7.2     100.0         31.0               0                0                1
+DEBUG:root:Predicted Crop: Maize
+DEBUG:root:Input Data: [7.2, 100.0, 31.0, 0, 0, 1]
+DEBUG:root:Expected Columns: ['pH' 'rainfall' 'temperature' 'soil_type_Clay' 'soil_type_Loamy'
+ 'soil_type_Sandy']
+DEBUG:root:Reordered Input Data:     pH  rainfall  temperature  soil_type_Clay  soil_type_Loamy  soil_type_Sandy
+0  7.2     100.0         31.0               0                0                1
+DEBUG:root:Predicted Crop: Maize
+DEBUG:root:Input Data: [7.2, 100.0, 31.0, 0, 0, 1]
+DEBUG:root:Expected Columns: ['pH' 'rainfall' 'temperature' 'soil_type_Clay' 'soil_type_Loamy'
+ 'soil_type_Sandy']
+DEBUG:root:Reordered Input Data:     pH  rainfall  temperature  soil_type_Clay  soil_type_Loamy  soil_type_Sandy
+0  7.2     100.0         31.0               0                0                1
+DEBUG:root:Predicted Crop: Maize
+DEBUG:root:Input Data: [7.2, 100.0, 31.0, 0, 0, 1]
+DEBUG:root:Expected Columns: ['pH' 'rainfall' 'temperature' 'soil_type_Clay' 'soil_type_Loamy'
+ 'soil_type_Sandy']
+DEBUG:root:Reordered Input Data:     pH  rainfall  temperature  soil_type_Clay  soil_type_Loamy  soil_type_Sandy
+0  7.2     100.0         31.0               0                0                1
+DEBUG:root:Predicted Crop: Maize
+DEBUG:root:Input Data: [7.2, 100.0, 10.0, 0, 0, 1]
+DEBUG:root:Expected Columns: ['pH' 'rainfall' 'temperature' 'soil_type_Clay' 'soil_type_Loamy'
+ 'soil_type_Sandy']
+DEBUG:root:Reordered Input Data:     pH  rainfall  temperature  soil_type_Clay  soil_type_Loamy  soil_type_Sandy
+0  7.2     100.0         10.0               0                0                1
+DEBUG:root:Predicted Crop: Maize
+DEBUG:root:Input Data: [7.2, 100.0, 1.0, 0, 0, 1]
+DEBUG:root:Expected Columns: ['pH' 'rainfall' 'temperature' 'soil_type_Clay' 'soil_type_Loamy'
+ 'soil_type_Sandy']
+DEBUG:root:Reordered Input Data:     pH  rainfall  temperature  soil_type_Clay  soil_type_Loamy  soil_type_Sandy
+0  7.2     100.0          1.0               0                0                1
+DEBUG:root:Predicted Crop: Maize
+DEBUG:root:Input Data: [7.2, 100.0, 45.0, 0, 0, 1]
+DEBUG:root:Expected Columns: ['pH' 'rainfall' 'temperature' 'soil_type_Clay' 'soil_type_Loamy'
+ 'soil_type_Sandy']
+DEBUG:root:Reordered Input Data:     pH  rainfall  temperature  soil_type_Clay  soil_type_Loamy  soil_type_Sandy
+0  7.2     100.0         45.0               0                0                1
+DEBUG:root:Predicted Crop: Maize
+DEBUG:root:Input Data: [6.5, 100.0, 23.0, 0, 0, 1]
+DEBUG:root:Expected Columns: ['pH' 'rainfall' 'temperature' 'soil_type_Clay' 'soil_type_Loamy'
+ 'soil_type_Sandy']
+DEBUG:root:Reordered Input Data:     pH  rainfall  temperature  soil_type_Clay  soil_type_Loamy  soil_type_Sandy
+0  6.5     100.0         23.0               0                0                1
+DEBUG:root:Predicted Crop: Millet
+DEBUG:root:Input Data: [6.5, 110.0, 32.0, 0, 0, 1]
+DEBUG:root:Expected Columns: ['pH' 'rainfall' 'temperature' 'soil_type_Clay' 'soil_type_Loamy'
+ 'soil_type_Sandy']
+DEBUG:root:Reordered Input Data:     pH  rainfall  temperature  soil_type_Clay  soil_type_Loamy  soil_type_Sandy
+0  6.5     110.0         32.0               0                0                1
+DEBUG:root:Predicted Crop: Millet
+DEBUG:root:Input Data: [6.5, 110.0, 31.0, 0, 0, 1]
+DEBUG:root:Expected Columns: ['pH' 'rainfall' 'temperature' 'soil_type_Clay' 'soil_type_Loamy'
+ 'soil_type_Sandy']
+DEBUG:root:Reordered Input Data:     pH  rainfall  temperature  soil_type_Clay  soil_type_Loamy  soil_type_Sandy
+0  6.5     110.0         31.0               0                0                1
+DEBUG:root:Predicted Crop: Millet
+DEBUG:root:Input Data: [6.5, 150.0, 31.0, 0, 0, 1]
+DEBUG:root:Expected Columns: ['pH' 'rainfall' 'temperature' 'soil_type_Clay' 'soil_type_Loamy'
+ 'soil_type_Sandy']
+DEBUG:root:Reordered Input Data:     pH  rainfall  temperature  soil_type_Clay  soil_type_Loamy  soil_type_Sandy
+0  6.5     150.0         31.0               0                0                1
